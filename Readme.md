@@ -1,1 +1,1 @@
-Jogo de adivinhação com cinco tentativas para acertar o palpite que foi gerado aleatoriamente pela máquina.
+Jogo de adivinhação com cinco tentativas para acertar o palpite de 1 até 20 que foi gerado aleatoriamente pela máquina.
